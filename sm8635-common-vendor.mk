@@ -1670,8 +1670,7 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hw.touchfeature-service \
     vendor.xiaomi.sensor.citsensorservice.aidl \
     init.mi.serial \
-    touch_report_debug \
-    toucheventcheck
+    touch_report_debug
 
 PRODUCT_PACKAGES += \
     system_ext_priv-app_WfdService_lib_arm64_libwfdnative_so \
